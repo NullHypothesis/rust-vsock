@@ -12,7 +12,7 @@ errno = "0.2.4"
 # Used by examples
 [dev-dependencies]
 clap = "2.33.0"
-bytefmt = ""
-serde = ""
-serde_derive = ""
-bincode = ""
+bytefmt = "*"
+serde = "*"
+serde_derive = "*"
+bincode = "*"
